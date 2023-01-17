@@ -1,7 +1,5 @@
 # _Week 1 Lab Report_
 
-***
-
 ## Installing VS Code
 
 ![VSC][1]
