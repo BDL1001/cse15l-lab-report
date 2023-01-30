@@ -42,7 +42,7 @@
 - Type in ***ssh ACCOUNT@ieng6.ucsd.edu***, with ACCOUNT being the one you obtained from the account lookup tool
 - If the terminal asks if you want to continue connecting, type in ***yes***
 - It will then ask you for the password that you resetted to in the previous step
-- Picture above is what you should expect after logging in
+- Picture above is what you should expect after logging in (displays several clusters and how many users are on each)
 
 ## Trying Some Commands
 
