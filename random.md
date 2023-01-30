@@ -8,9 +8,9 @@
 - Download Mac, Linux, or Windows version depending on your current OS
 
 ![VSC Zip](VSCZip.png)
-- (On Mac) There will be a zip file named <em><strong>VSCode-darwin-universal.zip<strong><em>
+- (On Mac) There will be a zip file named ***VSCode-darwin-universal.zip***
 - Double click or extract the zip file
-- An application file named <em><strong>Visual Studio Code<strong><em> should appear
+- An application file named ***Visual Studio Code*** should appear
 
 ![Applications Folder](ApplicationsFolder.png)
 - Drag the mentioned Visual Studio Code application file into Applications folder
@@ -29,18 +29,18 @@
 
 ![SSH Username](SSHUsername.png)
 - Pictured above is what you should see upon successfully looking up your account
-- Below the <em>Additional Accounts<em> you should see an account name in the form <em><strong>cs15lwi23xx<Strong><em>
-- This account is the username you will use to <em><strong>ssh<strong><em> into the remote server
+- Below the <em>Additional Accounts<em> you should see an account name in the form ***cs15lwi23xx***
+- This account is the username you will use to ***ssh*** into the remote server
 
 ![SSH Password](SSHPassword.png)
 - Follow the following guide to resetting your course specific account password
 - Link: [Resetting your password](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit)
-- The password you resetted to will be used to <em><strong>ssh<strong><em> into the remote server
+- The password you resetted to will be used to ***ssh*** into the remote server
 
 ![SSH Terminal](SSHTerminal.png)
 - Open your terminal app if you are on Mac or use the terminal in VS Code (Ctrl + `)
-- Type in <em><strong>ssh ACCOUNT@ieng6.ucsd.edu<strong><em>, with ACCOUNT being the one you obtained from the account lookup tool
-- If the terminal asks if you want to continue connecting, type in <em><strong>yes<strong><em>
+- Type in ***ssh ACCOUNT@ieng6.ucsd.edu***, with ACCOUNT being the one you obtained from the account lookup tool
+- If the terminal asks if you want to continue connecting, type in ***yes***
 - It will then ask you for the password that you resetted to in the previous step
 - Picture above is what you should expect after logging in
 
@@ -48,8 +48,8 @@
 
 ![Commands](COMMANDS.png)
 
-- Listed out all of the files/directories in the current direction using the <em><strong>ls -a<strong><em> command (with <em><strong>-a<strong><em> standing for "all)
-- Changed current directory to perl5 using <em><strong>cd<strong><em> command
-- Used the command <em><strong>echo<strong><em> to pass the string "test" to the <em><strong>>><strong><em> operator
-- The <em><strong>>><strong><em> operator is used to create the textfile.txt file and append "test" to it
-- Printed out the contents of testfile.txt to the terminal using <em><strong>cat<strong><em> command
+- Listed out all of the files/directories in the current direction using the ***ls -a*** command (with ***-a*** standing for "all)
+- Changed current directory to perl5 using ***cd*** command
+- Used the command ***echo*** to pass the string "test" to the ***>>*** operator
+- The ***>>*** operator is used to create the textfile.txt file and append "test" to it
+- Printed out the contents of testfile.txt to the terminal using ***cat*** command
