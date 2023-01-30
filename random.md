@@ -29,7 +29,7 @@
 
 ![SSH Username](SSHUsername.png)
 - Pictured above is what you should see upon successfully looking up your account
-- Below the <em>Additional Accounts<em> you should see an account name in the form ***cs15lwi23xx***
+- Below the *Additional Accounts* you should see an account name in the form ***cs15lwi23xx***
 - This account is the username you will use to ***ssh*** into the remote server
 
 ![SSH Password](SSHPassword.png)
